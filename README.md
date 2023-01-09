@@ -1,4 +1,5 @@
 # vue-project1
+ini adalah hasil tutorial saya di video tutorial yutub, channel M-Fikri satu jam jago vuejs3 cli
 
 ## Project setup
 ```
